@@ -1,0 +1,5 @@
+rtl8723ds-bt-firmware (0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- neon <rohan@garg.io>  Mon, 04 Dec 2017 11:19:43 +0100
